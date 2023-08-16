@@ -1,4 +1,4 @@
 # Projeto-Cafeteria
 
-Site responsivo criado com HTML e CSS
+Site de cafeteria responsivo criado com HTML e CSS
  
